@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Sc. Genetics (Technıcal University of Munich)  — Nov 2021 – Mar 2025
+* M.Sc. Genetics (Technical University of Munich)  — Nov 2021 – Mar 2025
 * Applied Data Science Program (Miuul) — Feb 2023 – Jul 2023
 * Undergraduate Research Visit (University of Virginia) — Jun 2017 – Sep 2017
 * B.Sc. Molecular Biology and Genetics (Acibadem University)— Sep 2016 – Aug 2021
