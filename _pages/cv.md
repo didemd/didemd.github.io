@@ -23,7 +23,7 @@ Work experience
 * Business Analyst Full-Time Intern (Lilium GmbH) — Dec 2023 – Jul 2024
 * Data Manager Full-Time Intern (Lilium GmbH) — Jul 2023 – Dec 2023
 
-Hackathons & Projects
+Achievements
 ======
 * Trendyol Hackathon — E-Commerce Search Ranking  
 * Futurepynk Hackathon — Bias-Aware Text Preprocessor  
